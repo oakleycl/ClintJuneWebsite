@@ -6,15 +6,15 @@ title: Clint Oakley
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Te Herenga Waka Victoria Univeristy of Wellington
+  url: https://www.wgtn.ac.nz
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests finishing websites and replacing default text.
 
 # Interests to show in About widget
 interests:
