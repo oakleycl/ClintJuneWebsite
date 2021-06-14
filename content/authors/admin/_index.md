@@ -10,7 +10,7 @@ role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Te Herenga Waka Victoria Univeristy of Wellington
+- name: Te Herenga Waka Victoria University of Wellington
   url: https://www.wgtn.ac.nz
 
 # Short bio (displayed in user profile at end of posts)
